@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altura_75">90dp</dimen>
+    <dimen name="boton_height">100dp</dimen>
+    <dimen name="boton_width">100dp</dimen>
+    <dimen name="boton_doublewidth">200dp</dimen>
+</resources>
